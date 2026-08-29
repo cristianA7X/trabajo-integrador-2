@@ -84,4 +84,12 @@ IN Sat Oct 23 11:41:20 2021 Encargad@ Horacio
 
 ## 👥 Grupo
 
-Grupo 3 – Python Avanzado, Centro Regional Universitario de Ituzaingó
+Grupo 3
+
+**Integrantes:**
+- Arispe Gabriel
+- Cardozo Camila
+- López Cristian
+- Loza Valentina
+- Lucero Germán
+- Zárate Elías

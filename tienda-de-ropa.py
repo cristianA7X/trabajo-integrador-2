@@ -174,7 +174,7 @@ def main():
                 elif opcion == "3":
                     print(f"\nCerrando turno de {encargado}. Total recaudado: ${totalTurno}")
                     registroSalida(encargado, totalTurno)
-                    print("Apagando sistema... chupala")
+                    print("Apagando sistema")
                     en_turno = False
                     sistema_activo = False
                 else:

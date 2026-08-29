@@ -4,6 +4,18 @@ Trabajo Integrador II – Python Avanzado (Opción 3: Tienda de Ropa)
 
 Sistema de consola para gestionar los pedidos de un local de ropa: permite registrar ventas por cantidad de producto, calcular el total con descuento opcional, procesar el pago y el vuelto, y dejar un registro completo de la actividad del turno en un archivo de texto.
 
+## 👥 Grupo
+
+Grupo 3
+
+**Integrantes:**
+- Arispe Gabriel
+- Cardozo Camila
+- López Cristian
+- Loza Valentina
+- Lucero Germán
+- Zárate Elías
+
 ## 📋 Menú de productos
 
 | Producto  | Precio |
@@ -81,15 +93,3 @@ IN Sat Oct 23 11:41:20 2021 Encargad@ Horacio
 - [x] Confirmación de pedido (Y/N) antes de guardar
 - [x] Registro persistente de ingresos, ventas y egresos en `registro.txt`
 - [x] Manejo de excepciones: el sistema no se detiene ante entradas inválidas ni errores inesperados
-
-## 👥 Grupo
-
-Grupo 3
-
-**Integrantes:**
-- Arispe Gabriel
-- Cardozo Camila
-- López Cristian
-- Loza Valentina
-- Lucero Germán
-- Zárate Elías

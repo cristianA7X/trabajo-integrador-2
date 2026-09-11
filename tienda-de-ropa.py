@@ -1,22 +1,13 @@
 """
-OPCIÓN 3 –Tienda de Ropa 👕
+OPCIÓN 3 – Tienda de Ropa
 
 Un local de ropa quiere registrar ventas.
-• 📋 Productos:
+• Productos:
 • Remera → $10
 • Pantalón → $20
 • Buzo → $25
 • Gorra → $8
 
-• 💡 Adaptación
-• Igual que hamburguesería:
-• Pedido por cantidades
-• Cálculo total
-• Pago y vuelto
-• Confirmación
-• Guardado en archivo
-• Podés sumar:
-Descuento opcional (por ejemplo 10%)
 """
 
 import time

@@ -1,0 +1,13 @@
+IN Sat Sep 12 09:51:46 2026 Encargad@ C:\Users\chris\AppData\Local\Programs\Python\Python314\python.exe "c:/Tecnicatura En Desarrollo De Software/2do año/Programación/programacion-python/trabajo-integrador-2/tienda-de-ropa.py"
+VENTA Sat Sep 12 09:53:12 2026 Cliente pepe Remera:2 Pantalon:0 Buzo:0 Gorra:0 Total:$18
+OUT Sat Sep 12 09:53:19 2026 Encargad@ C:\Users\chris\AppData\Local\Programs\Python\Python314\python.exe "c:/Tecnicatura En Desarrollo De Software/2do año/Programación/programacion-python/trabajo-integrador-2/tienda-de-ropa.py" $0
+##################################################
+IN Sat Sep 12 10:06:45 2026 Encargad@ jose
+VENTA Sat Sep 12 10:07:12 2026 Cliente mario Remera:0 Pantalon:4 Buzo:0 Gorra:0 Total:$80
+IN Sat Sep 12 10:09:34 2026 Encargad@ pepe
+OUT Sat Sep 12 10:09:40 2026 Encargad@ pepe $0
+##################################################
+IN Sat Sep 12 10:09:50 2026 Encargad@ mario
+VENTA Sat Sep 12 10:10:14 2026 Cliente 2 Remera:0 Pantalon:0 Buzo:0 Gorra:7 Total:$56
+OUT Sat Sep 12 10:10:22 2026 Encargad@ mario $56
+##################################################
